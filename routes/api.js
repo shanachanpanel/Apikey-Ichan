@@ -432,7 +432,7 @@ router.get('/news/tempo', async (req, res, next) => {
         .then(data => {
         var result = data;
              res.json({
-             	author: 'Zeeone',
+             	author: 'shanachan',
                  result
              })
          })
@@ -455,7 +455,7 @@ router.get('/news/antara', async (req, res, next) => {
         .then(data => {
         var result = data;
              res.json({
-             	author: 'Zeeone',
+             	author: 'shanachan',
                  result
              })
          })
@@ -477,7 +477,7 @@ router.get('/news/kumparan', async (req, res, next) => {
         .then(data => {
         var result = data;
              res.json({
-             	author: 'Zeeone',
+             	author: 'shanachan',
                  result
              })
          })
@@ -1075,7 +1075,7 @@ router.get('/other/github-stalk', async (req, res, next) => {
         .then(data => {
         var result = data;
              res.json({
-             	author: 'Zeeone',
+             	author: 'shanachan',
                  result
              })
          })
